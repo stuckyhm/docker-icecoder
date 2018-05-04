@@ -1,0 +1,3 @@
+[submodule "icecoder"]
+	path = icecoder
+	url = git://github.com/icecoder/ICEcoder.git
